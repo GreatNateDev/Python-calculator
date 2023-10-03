@@ -1,4 +1,4 @@
-Python Calculator with tkinter
+Python Calculator with Tkinter
 
 
 SETUP:
